@@ -8,9 +8,7 @@
 1. [About Me](#about-me)
 2. [Skills and Expertise](#skills-and-expertise)
 3. [Projects](#projects)
-4. [Open Source Contributions](#open-source-contributions)
-5. [Achievements](#achievements)
-6. [Contact Me](#contact-me)
+4. [Contact Me](#contact-me)
 
 ## About Me
 
