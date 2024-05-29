@@ -29,7 +29,6 @@ I believe in continuous learning and am always on the lookout for new challenges
 ### [Project 1: A SOLUTION TO FACILITATE DOCUMENT READING FOR THE VISUALLY IMPAIRED BASED ON DOCUMENT ANALYSIS AND RECOGNITION](https://github.com/Sherlockian1212/Vi5)
 - **Description:** My student's scientific research topic
 - **Technologies Used:** YOLOv8, Tesseract-OCR, Image captioning, Formula Captioning,...
-- **Key Features:** Highlight some key features or functionalities.
 - **Repository:** [Link to repository](https://github.com/Sherlockian1212/Vi5)
 
 ### [Project 2: Document2Braille](https://github.com/Sherlockian1212/Document2Braille)
