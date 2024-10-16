@@ -37,23 +37,6 @@ I believe in continuous learning and am always on the lookout for new challenges
 - **Description:** Final project in Digital Image Processing and Machine Learning. A project to convert images containing text into Braille.
 - **Technologies Used:** YOLOv8, Tesseract-OCR, K-means Clustering, Edge Detection
 - **Repository:** [Link to repository](https://github.com/Sherlockian1212/Document2Braille)
- 
-### [Project 3: ML01](https://github.com/Sherlockian1212/ML01)
-- **Description:** Final project in Machine Learning. House price prediction algorithm.
-- **Technologies Used:** R, Multiple linear regression, Data visualization
-- **Repository:** [Link to repository](https://github.com/Sherlockian1212/ML01)
-
-
-### [Project 4: Kiwi Flowershop](https://github.com/Sherlockian1212/kiwi-flowershop)
-- **Description:** Final project in Web Application Development. The website selling flowers.
-- **Technologies Used:** HTML, CSS, JS, PHP
-- **Repository:** [Link to repository](https://github.com/Sherlockian1212/kiwi-flowershop)
-
-### [Project 5: LTDT](https://github.com/Sherlockian1212/LTDT)
-- **Description:** Final project in Graph Theory.
-- **Technologies Used:** C#, Window Form, DFS, BFS
-- **Repository:** [Link to repository](https://github.com/Sherlockian1212/LTDT)
-
 
 ## Contact Me
 
